@@ -15,3 +15,7 @@ for patch-3
 
 ### patch-4 ###
 test.
+
+Hoge Hoge
+=========
+bar bar.
