@@ -16,6 +16,6 @@ for patch-3
 ### patch-4 ###
 test.
 
-Hoge Hoge
+Baka Baka
 =========
 bar bar.
